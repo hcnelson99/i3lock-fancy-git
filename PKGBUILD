@@ -1,7 +1,7 @@
 # Maintainer: Dolores Portalatin <meskarune at gmail dot com>
 # Contributor: burntcookie90 <aur at vishnurajeevan dot com>
 _gitname=i3lock-fancy
-pkgname=i3lock-fancy-git-fixed
+pkgname=i3lock-fancy-git
 pkgver=r134.4d3931a
 pkgrel=1
 pkgdesc="i3lock-color script: blurs background, adds lock icon and text, offers dark/light background detection."
